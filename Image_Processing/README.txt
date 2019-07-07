@@ -1,0 +1,1 @@
+This script has as input a drawing image and as output some "Robot Studio" code. The robot's tool is moving across the contour of the drawing.
